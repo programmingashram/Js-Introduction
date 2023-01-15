@@ -1,6 +1,4 @@
-# Js-Introduction
-
-## What is JavaScript ?
+## Introduction of JS 🚀 ?
 
 JavaScript is a dynamic computer programming language. 
 It is lightweight and most commonly used as a part of web pages, 
